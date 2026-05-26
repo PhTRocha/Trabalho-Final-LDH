@@ -1,0 +1,4 @@
+# Pastas do IntelliJ e compilados
+.idea/
+out/
+*.class
