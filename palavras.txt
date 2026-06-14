@@ -89,7 +89,7 @@ Assalariado
 Aumentar
 Auxiliar
 Batalhador
-Bem-estar
+Bemestar
 Benevolo
 Beneficio
 Caloroso
@@ -207,7 +207,7 @@ Bravura
 Brilhante
 Caminhada
 Cativante
-Celebração
+Celebracao
 Certeza
 Companheiro
 Conectar
