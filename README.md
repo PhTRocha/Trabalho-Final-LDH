@@ -1,16 +1,3 @@
-# Manual do Usuário — Jogo da Forca
-
-**Disciplina:** 36811 – Modelagem e Programação de Sistemas Computacionais
-**Curso:** Engenharia da Informação — UNOESC Chapecó
-
-> Espaço para a equipe: preencher com o nome de todos os integrantes antes da entrega.
->
-> - Integrante 1: ______________________________
-> - Integrante 2: ______________________________
-> - Integrante 3: ______________________________
-
----
-
 ## 1. Sobre o sistema
 
 O **Jogo da Forca** é uma aplicação de linha de comando (CLI) desenvolvida em Java. O objetivo do jogador é descobrir uma palavra secreta, sorteada aleatoriamente de uma lista, adivinhando uma letra de cada vez antes que as tentativas se esgotem.
